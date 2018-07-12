@@ -1,0 +1,24 @@
+body {
+
+  background-image:url(pictures/deset.jpg);
+  background-image: blur(5px);
+  background-repeat: no-repeat;;
+  color: white;
+  font-family:serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+}
+.container1 footer {
+  padding: 100px;
+  margin:10px;
+  text-align: center;
+}
+.marketing1 {
+  padding:100px;
+  margin:10px;
+}
+.carousel-inner img {
+  padding: 10px;
+  height: 800px;
+}
